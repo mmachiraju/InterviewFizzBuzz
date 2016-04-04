@@ -1,0 +1,1 @@
+http://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/
